@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "robotoslab";
+    src: url("fonts/RobotoSlab-VariableFont_wght.ttf");
+  }
+  
+
+*{
+    font-family: "robotoslab";
+}
+
+body{
+    background-color: cornsilk;
+}
+
+#tag{
+    background-color: beige;
+}
+
+#titulo{
+    font-size: 3vw;
+}
+
+#barra{
+    background: transparent !important;
+}
+
+#cuerpo{
+    background: white;
+}
